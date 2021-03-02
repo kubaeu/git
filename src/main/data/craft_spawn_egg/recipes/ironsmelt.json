@@ -1,0 +1,12 @@
+{
+  "group": "craft_spawn_egg",
+  "type": "minecraft:smelting",
+  "experience": 10,
+  "cookingtime": 2,
+  "ingredient": {
+    "item": "minecraft:iron_ore"
+  },
+  "result": {
+    "item": "minecraft:iron_ingot"
+  }
+}

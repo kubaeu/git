@@ -1,0 +1,81 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Villager",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "villager"
+    },
+    {
+      "name": "Enderman",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderman"
+    },
+    {
+      "name": "Spawner",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spawner"
+    },
+    {
+      "name": "Ironsmelt",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironsmelt"
+    },
+    {
+      "name": "Ironsmelt2",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironsmelt_2"
+    },
+    {
+      "name": "Glass",
+      "type": "loottable",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glass"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "craft_spawn_egg",
+    "modName": "craft.spawn.egg",
+    "version": "1.0.0",
+    "author": "kkkkkuuuubbbbbaa, dyne1",
+    "websiteURL": "https:/kubayt.ml",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.15.x",
+    "modElementsPackage": "craft.spawn.egg",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

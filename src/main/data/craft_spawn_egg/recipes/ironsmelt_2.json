@@ -1,0 +1,12 @@
+{
+  "group": "craft_spawn_egg",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:iron_ore"
+  },
+  "result": {
+    "item": "minecraft:iron_ingot"
+  }
+}
