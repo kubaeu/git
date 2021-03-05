@@ -54,6 +54,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "glass"
+    },
+    {
+      "name": "Shulker",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shulker"
     }
   ],
   "variable_elements": [],
